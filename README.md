@@ -1,16 +1,33 @@
-# task_manager_kiro
+# Get Donee (Android)
 
-A new Flutter project.
+Get Donee (Android)
 
-## Getting Started
+A simple and intuitive task management application built with Flutter to help you stay organized and productive.
 
-This project is a starting point for a Flutter application.
+✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+Effortless Task Management: Quickly add, edit, and prioritize your daily tasks.
+Productivity Stats: Track your progress with a visual heatmap and insightful statistics.
+Achievement System: Stay motivated by unlocking achievements for completing your goals.
+Local Notifications: Get timely reminders for your important tasks.
+Clean & Modern UI: A sleek, dark-themed interface with custom fonts and responsive design.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🚀 Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Framework: Flutter
+State Management: Riverpod
+Database: Drift (a reactive persistence library based on SQLite)
+Notifications: flutter_local_notifications
+Code Generation: build_runner for database models.
+
+Note : the app is still in alpha stage and will have some broken functionalities and debug code.
+
+How to Download the App
+
+Currently it supports only Android . 
+
+You Could download the apk from Get Donee Apk (Alpha) folder
+
+or just build it via repo using flutter sdk
+
+Thanks !

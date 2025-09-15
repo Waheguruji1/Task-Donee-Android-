@@ -11,6 +11,8 @@ Productivity Stats: Track your progress with a visual heatmap and insightful sta
 Achievement System: Stay motivated by unlocking achievements for completing your goals.
 Local Notifications: Get timely reminders for your important tasks.
 Clean & Modern UI: A sleek, dark-themed interface with custom fonts and responsive design.
+Personalised greeting according to time of the day.
+Manages and refreshes tasks day wise for you to be productive each day.
 
 🚀 Tech Stack
 

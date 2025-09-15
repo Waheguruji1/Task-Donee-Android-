@@ -143,14 +143,14 @@ flutter:
 flutter_launcher_icons:
   android: "launcher_icon"           # Name for Android launcher icon
   ios: true                          # Generate iOS app icon
-  image_path: "assets/icons/app_icon.svg"  # Path to your SVG icon file
+  image_path: "assets/icons/app_icon_96x96.png"  # Path to your SVG icon file
   min_sdk_android: 21                # Minimum Android SDK version (required for adaptive icons)
   web:
     generate: true                   # Generate web favicon
-    image_path: "assets/icons/app_icon.svg"
+    image_path: "assets/icons/app_icon_96x96.png"
   windows:
     generate: true                   # Generate Windows app icon
-    image_path: "assets/icons/app_icon.svg"
+    image_path: "assets/icons/app_icon_96x96.png"
   macos:
     generate: true                   # Generate macOS app icon
-    image_path: "assets/icons/app_icon.svg"
+    image_path: "assets/icons/app_icon_96x96.png"

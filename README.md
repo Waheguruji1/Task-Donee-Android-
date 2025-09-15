@@ -26,7 +26,7 @@ How to Download the App
 
 Currently it supports only Android . 
 
-You Could download the apk from Get Donee Apk (Alpha) folder
+You Could download the apk from Get Donee Apk (Alpha) folder or from release section of this repo
 
 or just build it via repo using flutter sdk
 
